@@ -1,6 +1,8 @@
 # :dart: Scoring Model
 Use historical loan application data to predict whether or not an applicant will be able to repay a loan.
 
+**Expected output**: a probability of default prediction, between 0 and 1.
+
 ## :scroll: Tasks
 - :heavy_check_mark: Exploratory Data Analysis (EDA);
 - :heavy_check_mark: Data cleaning;
@@ -35,3 +37,4 @@ scikit-learn, LightGBM, SHAP
 # :arrow_forward: Further reading
 - [Threshold moving for Imbalanced Classification - Jason Brownlee (machinelearningmastery.com)](https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/)
 - [Imbalanced Data in NLP and Computer Vision](https://www.analyticsvidhya.com/blog/2020/11/handling-imbalanced-data-machine-learning-computer-vision-and-nlp/)
+- [Bayesian Optimization- Jason Brownlee (machinelearningmastery.com)](https://machinelearningmastery.com/what-is-bayesian-optimization/)
