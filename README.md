@@ -29,6 +29,7 @@ scikit-learn, LightGBM, SHAP
 - [Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html); [cross_validate](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html)
 - Evaluation metrics : [Evaluation of models with scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html)
 - [Tuning the hyperparameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html); [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
+- [Interpretable Machine Learning with SHAP](https://shap.readthedocs.io/en/latest/index.html)
 
 # :arrow_forward: Further reading
 - [Threshold moving for Imbalanced Classification - Jason Brownlee (machinelearningmastery.com)](https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/)
