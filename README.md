@@ -43,5 +43,5 @@ scikit-learn, LightGBM, SHAP
 
 # :arrow_forward: Further reading
 - [Threshold moving for Imbalanced Classification - Jason Brownlee (machinelearningmastery.com)](https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/)
-- [Imbalanced Data in NLP and Computer Vision](https://www.analyticsvidhya.com/blog/2020/11/handling-imbalanced-data-machine-learning-computer-vision-and-nlp/)
+- [Imbalanced Data in NLP and Computer Vision - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/11/handling-imbalanced-data-machine-learning-computer-vision-and-nlp/)
 - [Bayesian Optimization- Jason Brownlee (machinelearningmastery.com)](https://machinelearningmastery.com/what-is-bayesian-optimization/)
