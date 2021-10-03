@@ -7,8 +7,9 @@ Use historical loan application data to predict whether or not an applicant will
 - :heavy_check_mark: Feature engineering;
 - :heavy_check_mark: Imbalanced classes management;
 - :heavy_check_mark: Model training: Naïve Bayes, Logistic Regression, Stochastic Gradient Descent, Random Forest, LightGBM
+- :heavy_check_mark: Model evaluation: AUC (Area Under the Curve), Recall, F1-Score
 - :heavy_check_mark: Hyperparameters optimization;
-- :heavy_check_mark: Evaluation of variable importance with SHAP.
+- :heavy_check_mark: Evaluation of variable importance with SHAP (Shapley Additive exPlanations).
 
 <img src="./pictures\imbalanced_classes_distribution.png">
 
