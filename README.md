@@ -23,6 +23,13 @@ scikit-learn, LightGBM, SHAP
 - [Collection of useful functions - Ann Antonova on Kaggle](https://www.kaggle.com/aantonova/collection-of-useful-functions-and-simple-baseline)
 - [Introduction to Imbalanced Classification - Jason Brownlee (machinelearningmastery.com)](https://machinelearningmastery.com/what-is-imbalanced-classification/)
 - [Reduce memory usage on large datasets with datatype conversion](https://www.kaggle.com/c/champs-scalar-coupling/discussion/96655)
+- Baseline: [scikit-learn - Naive Bayes (Gaussian)](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html)
+- Linear models: [scikit-learn - Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html); [scikit-learn - Stochastic Gradient Descent (SGD)](https://scikit-learn.org/stable/modules/sgd.html)
+- Non Linear models : [Random Forest Classifier (ensemble method)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html); [LightGBM (Gradient Boosting Machine) documentation](https://lightgbm.readthedocs.io/en/latest/index.html)
+- [Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html); [cross_validate](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html)
+- Evaluation metrics : [Evaluation of models with scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html)
+- [Tuning the hyperparameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html); [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 
 # :arrow_forward: Further reading
 - [Threshold moving for Imbalanced Classification - Jason Brownlee (machinelearningmastery.com)](https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/)
+- [Imbalanced Data in NLP and Computer Vision](https://www.analyticsvidhya.com/blog/2020/11/handling-imbalanced-data-machine-learning-computer-vision-and-nlp/)
