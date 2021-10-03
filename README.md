@@ -13,7 +13,7 @@ Use historical loan application data to predict whether or not an applicant will
 - :heavy_check_mark: Hyperparameters optimization;
 - :heavy_check_mark: Evaluation of variable importance with SHAP (Shapley Additive exPlanations).
 
-<img src="./pictures\imbalanced_classes_distribution.png">
+<img src=".\pictures\imbalanced_classes_distribution.png"><img src=".\pictures\roc_auc_lightgbm.png">
 
 # :card_index_dividers: Dataset
 The dataset is provided by [Home Credit](https://www.kaggle.com/c/home-credit-default-risk)
